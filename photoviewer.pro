@@ -35,3 +35,6 @@ RESOURCES += main.qml \
 
 target.path = $$[QT_INSTALL_EXAMPLES]/demos/photoviewer
 INSTALLS += target
+
+DISTFILES += \
+    newComponent/background.qml
